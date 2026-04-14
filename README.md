@@ -1,11 +1,11 @@
-# 📚 Multi-PDF RAG System
+#  Multi-PDF RAG System
 
 A **100% free**, fully local Retrieval-Augmented Generation (RAG) app.  
 Upload any number of PDFs and ask questions — answers are grounded strictly in your documents.
 
 --
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```
 multi_pdf_rag/
@@ -16,7 +16,7 @@ multi_pdf_rag/
 
 ---
 
-## ⚡ Quick Setup in VS Code
+##  Quick Setup in VS Code
 
 ### Step 1 — Open project in VS Code
 ```
